@@ -1,0 +1,737 @@
+{
+  "administrators": [
+    {
+      "id": 1,
+      "name": "Usuário Consulta",
+      "accessCode": "consulta123",
+      "isActive": true,
+      "userType": "viewer",
+      "createdAt": "2025-07-11T16:21:36.220Z"
+    }
+  ],
+  "products": [],
+  "insumos": [
+    {
+      "id": 1,
+      "code": "P052",
+      "name": "PESADINHA",
+      "category": "PESADINHA",
+      "unit": "kg",
+      "purchaseValue": "1.7200",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "1.4214",
+      "createdAt": "2025-07-04T13:57:21.890Z"
+    },
+    {
+      "id": 2,
+      "code": "11006",
+      "name": "SAL REFINADO IODADO",
+      "category": "PESADINHA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "94.4",
+      "finalCostPerKg": "1.6937",
+      "createdAt": "2025-07-04T13:57:21.893Z"
+    },
+    {
+      "id": 3,
+      "code": "12041",
+      "name": "ENZIMA GRANULIX 100 A",
+      "category": "PESADINHA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "12.1",
+      "finalCostPerKg": "340.8900",
+      "createdAt": "2025-07-04T13:57:21.894Z"
+    },
+    {
+      "id": 4,
+      "code": "20036",
+      "name": "SACO PARA PESADINHA 21X50X05,10MM",
+      "category": "PESADINHA",
+      "unit": "un",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "54.9",
+      "finalCostPerKg": "0.7851",
+      "createdAt": "2025-07-04T13:57:21.894Z"
+    },
+    {
+      "id": 5,
+      "code": "23012",
+      "name": "ETIQUETA COUCHE 3A ESTO ADESIVO 105X90",
+      "category": "PESADINHA",
+      "unit": "un",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "54.9",
+      "finalCostPerKg": "0.1422",
+      "createdAt": "2025-07-04T13:57:21.895Z"
+    },
+    {
+      "id": 6,
+      "code": "M110",
+      "name": "MASSA",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "121.0200",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "2.3776",
+      "createdAt": "2025-07-04T13:57:21.896Z"
+    },
+    {
+      "id": 7,
+      "code": "10000",
+      "name": "FARINHA DE TRIGO",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "43.3",
+      "finalCostPerKg": "6.2428",
+      "createdAt": "2025-07-04T13:57:21.896Z"
+    },
+    {
+      "id": 8,
+      "code": "11033",
+      "name": "ÓLEO DE SOJA REFINADO",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "2.2",
+      "finalCostPerKg": "251.1400",
+      "createdAt": "2025-07-04T13:57:21.908Z"
+    },
+    {
+      "id": 9,
+      "code": "15001",
+      "name": "ÁGUA CONSUMO PRODUTIVO",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "12.7",
+      "finalCostPerKg": "0.0000",
+      "createdAt": "2025-07-04T13:57:21.912Z"
+    },
+    {
+      "id": 10,
+      "code": "15002",
+      "name": "GELO CONSUMO PRODUTIVO",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "15.0",
+      "finalCostPerKg": "7.3200",
+      "createdAt": "2025-07-04T13:57:21.915Z"
+    },
+    {
+      "id": 11,
+      "code": "11025",
+      "name": "FERMENTO BIOLÓGICO FRESCO MAURI",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "2.2000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.1683",
+      "createdAt": "2025-07-04T13:57:21.919Z"
+    },
+    {
+      "id": 12,
+      "code": "22000",
+      "name": "SACO PLÁSTICO PP 10X32X0,03MM",
+      "category": "EMBALAGEM",
+      "unit": "un",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.5150",
+      "createdAt": "2025-07-04T13:57:21.928Z"
+    },
+    {
+      "id": 13,
+      "code": "23037",
+      "name": "FITA ADESIVA POLYPRES-430 TRANSPARENTE",
+      "category": "EMBALAGEM",
+      "unit": "mt",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.0685",
+      "createdAt": "2025-07-04T13:57:21.929Z"
+    },
+    {
+      "id": 14,
+      "code": "23038",
+      "name": "RIBON CRA FALTA (CONT) 110X450 C/450 HIS",
+      "category": "EMBALAGEM",
+      "unit": "mt",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.1044",
+      "createdAt": "2025-07-04T13:57:21.933Z"
+    },
+    {
+      "id": 15,
+      "code": "21026",
+      "name": "CAIXA MÉDIA N 500 x 300 x 250",
+      "category": "EMBALAGEM",
+      "unit": "un",
+      "purchaseValue": "1.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.8550",
+      "createdAt": "2025-07-04T13:57:21.936Z"
+    },
+    {
+      "id": 16,
+      "code": "23012",
+      "name": "ETIQUETA COLCHF AA R570 ADESIVO 105X50",
+      "category": "EMBALAGEM",
+      "unit": "un",
+      "purchaseValue": "2.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "0.0282",
+      "createdAt": "2025-07-04T13:57:21.939Z"
+    },
+    {
+      "id": 17,
+      "code": "11028",
+      "name": "FERMENTO BIOLÓGICO FRESCO MAURI",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "0.5",
+      "finalCostPerKg": "1542.5900",
+      "createdAt": "2025-07-04T14:10:58.033Z"
+    },
+    {
+      "id": 18,
+      "code": "13034",
+      "name": "CALABRESA",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "18.2",
+      "finalCostPerKg": "90.8600",
+      "createdAt": "2025-07-04T14:10:58.038Z"
+    },
+    {
+      "id": 19,
+      "code": "13058",
+      "name": "REQUEIJÃO",
+      "category": "MASSA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "9.7",
+      "finalCostPerKg": "72.9700",
+      "createdAt": "2025-07-04T14:10:58.043Z"
+    },
+    {
+      "id": 20,
+      "code": "F052",
+      "name": "PESADINHA",
+      "category": "PESADINHA",
+      "unit": "kg",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "94.4",
+      "finalCostPerKg": "1.7576",
+      "createdAt": "2025-07-04T14:10:58.049Z"
+    },
+    {
+      "id": 21,
+      "code": "21002",
+      "name": "CAIXA PAPELÃO MÉDIA 388X288X260",
+      "category": "EMBALAGEM",
+      "unit": "un",
+      "purchaseValue": "0.0000",
+      "yieldPercentage": "100.0",
+      "finalCostPerKg": "2.5122",
+      "createdAt": "2025-07-04T14:10:58.075Z"
+    }
+  ],
+  "productInsumos": [
+    {
+      "id": 1,
+      "productId": 1,
+      "insumoId": 1,
+      "quantity": "1.72",
+      "createdAt": "2025-07-04T13:57:42.156Z"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "insumoId": 2,
+      "quantity": "1.5",
+      "createdAt": "2025-07-04T13:57:42.159Z"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "insumoId": 3,
+      "quantity": "0.22",
+      "createdAt": "2025-07-04T13:57:42.162Z"
+    },
+    {
+      "id": 4,
+      "productId": 1,
+      "insumoId": 4,
+      "quantity": "1",
+      "createdAt": "2025-07-04T13:57:42.165Z"
+    },
+    {
+      "id": 5,
+      "productId": 1,
+      "insumoId": 5,
+      "quantity": "1",
+      "createdAt": "2025-07-04T13:57:42.176Z"
+    },
+    {
+      "id": 6,
+      "productId": 1,
+      "insumoId": 6,
+      "quantity": "121.02",
+      "createdAt": "2025-07-04T13:57:42.179Z"
+    },
+    {
+      "id": 7,
+      "productId": 1,
+      "insumoId": 7,
+      "quantity": "75",
+      "createdAt": "2025-07-04T13:57:42.183Z"
+    },
+    {
+      "id": 8,
+      "productId": 1,
+      "insumoId": 8,
+      "quantity": "0.6",
+      "createdAt": "2025-07-04T13:57:42.186Z"
+    },
+    {
+      "id": 9,
+      "productId": 1,
+      "insumoId": 9,
+      "quantity": "20.75",
+      "createdAt": "2025-07-04T13:57:42.190Z"
+    },
+    {
+      "id": 10,
+      "productId": 1,
+      "insumoId": 10,
+      "quantity": "20.75",
+      "createdAt": "2025-07-04T13:57:42.191Z"
+    },
+    {
+      "id": 11,
+      "productId": 1,
+      "insumoId": 11,
+      "quantity": "2.2",
+      "createdAt": "2025-07-04T13:57:42.196Z"
+    },
+    {
+      "id": 12,
+      "productId": 1,
+      "insumoId": 12,
+      "quantity": "1",
+      "createdAt": "2025-07-04T13:57:42.198Z"
+    },
+    {
+      "id": 13,
+      "productId": 1,
+      "insumoId": 13,
+      "quantity": "1.32",
+      "createdAt": "2025-07-04T13:57:42.201Z"
+    },
+    {
+      "id": 14,
+      "productId": 1,
+      "insumoId": 14,
+      "quantity": "0.014",
+      "createdAt": "2025-07-04T13:57:42.203Z"
+    },
+    {
+      "id": 15,
+      "productId": 1,
+      "insumoId": 15,
+      "quantity": "1",
+      "createdAt": "2025-07-04T13:57:42.204Z"
+    },
+    {
+      "id": 16,
+      "productId": 1,
+      "insumoId": 17,
+      "quantity": "1",
+      "createdAt": "2025-07-04T14:10:58.034Z"
+    },
+    {
+      "id": 17,
+      "productId": 1,
+      "insumoId": 18,
+      "quantity": "1",
+      "createdAt": "2025-07-04T14:10:58.040Z"
+    },
+    {
+      "id": 18,
+      "productId": 1,
+      "insumoId": 19,
+      "quantity": "1",
+      "createdAt": "2025-07-04T14:10:58.047Z"
+    },
+    {
+      "id": 19,
+      "productId": 1,
+      "insumoId": 20,
+      "quantity": "1",
+      "createdAt": "2025-07-04T14:10:58.052Z"
+    },
+    {
+      "id": 20,
+      "productId": 1,
+      "insumoId": 21,
+      "quantity": "1",
+      "createdAt": "2025-07-04T14:10:58.077Z"
+    }
+  ],
+  "composicaoDetalhada": [],
+  "composicaoPreco": [],
+  "logisticaTransporte": [],
+  "logAlteracoes": [
+    {
+      "id": 1,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo PESADINHA atualizado",
+      "previousValue": "{\"id\":1,\"code\":\"P052\",\"name\":\"PESADINHA\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"1.7200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"1.4214\",\"createdAt\":\"2025-07-04T13:57:21.890Z\"}",
+      "newValue": "{\"id\":1,\"code\":\"P052\",\"name\":\"PESADINHA\",\"category\":\"PESADINHA\",\"unit\":\"kg\",\"purchaseValue\":\"1.7200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"1.4214\",\"createdAt\":\"2025-07-04T13:57:21.890Z\"}",
+      "insumoId": 1,
+      "createdAt": "2025-07-04T14:02:22.311Z"
+    },
+    {
+      "id": 2,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo MASSA atualizado",
+      "previousValue": "{\"id\":6,\"code\":\"M110\",\"name\":\"MASSA\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"121.0200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"2.3776\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "newValue": "{\"id\":6,\"code\":\"M110\",\"name\":\"MASSA\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"121.0200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"2.3776\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "insumoId": 6,
+      "createdAt": "2025-07-04T14:02:22.339Z"
+    },
+    {
+      "id": 3,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo FARINHA DE TRIGO atualizado",
+      "previousValue": "{\"id\":7,\"code\":\"10000\",\"name\":\"FARINHA DE TRIGO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"75.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"1.8592\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "newValue": "{\"id\":7,\"code\":\"10000\",\"name\":\"FARINHA DE TRIGO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"75.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"1.8592\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "insumoId": 7,
+      "createdAt": "2025-07-04T14:02:22.340Z"
+    },
+    {
+      "id": 4,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SAL REFINADO IODADO atualizado",
+      "previousValue": "{\"id\":2,\"code\":\"11006\",\"name\":\"SAL REFINADO IODADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"1.5000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2230\",\"createdAt\":\"2025-07-04T13:57:21.893Z\"}",
+      "newValue": "{\"id\":2,\"code\":\"11006\",\"name\":\"SAL REFINADO IODADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"1.5000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2230\",\"createdAt\":\"2025-07-04T13:57:21.893Z\"}",
+      "insumoId": 2,
+      "createdAt": "2025-07-04T14:02:22.342Z"
+    },
+    {
+      "id": 5,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ÓLEO DE SOJA REFINADO atualizado",
+      "previousValue": "{\"id\":8,\"code\":\"11033\",\"name\":\"ÓLEO DE SOJA REFINADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.6000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0303\",\"createdAt\":\"2025-07-04T13:57:21.908Z\"}",
+      "newValue": "{\"id\":8,\"code\":\"11033\",\"name\":\"ÓLEO DE SOJA REFINADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.6000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0303\",\"createdAt\":\"2025-07-04T13:57:21.908Z\"}",
+      "insumoId": 8,
+      "createdAt": "2025-07-04T14:02:22.344Z"
+    },
+    {
+      "id": 6,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ÁGUA CONSUMO PRODUTIVO atualizado",
+      "previousValue": "{\"id\":9,\"code\":\"15001\",\"name\":\"ÁGUA CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0000\",\"createdAt\":\"2025-07-04T13:57:21.912Z\"}",
+      "newValue": "{\"id\":9,\"code\":\"15001\",\"name\":\"ÁGUA CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0000\",\"createdAt\":\"2025-07-04T13:57:21.912Z\"}",
+      "insumoId": 9,
+      "createdAt": "2025-07-04T14:02:22.345Z"
+    },
+    {
+      "id": 7,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo GELO CONSUMO PRODUTIVO atualizado",
+      "previousValue": "{\"id\":10,\"code\":\"15002\",\"name\":\"GELO CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2096\",\"createdAt\":\"2025-07-04T13:57:21.915Z\"}",
+      "newValue": "{\"id\":10,\"code\":\"15002\",\"name\":\"GELO CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2096\",\"createdAt\":\"2025-07-04T13:57:21.915Z\"}",
+      "insumoId": 10,
+      "createdAt": "2025-07-04T14:02:22.348Z"
+    },
+    {
+      "id": 8,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo FERMENTO BIOLÓGICO FRESCO MAURI atualizado",
+      "previousValue": "{\"id\":11,\"code\":\"11025\",\"name\":\"FERMENTO BIOLÓGICO FRESCO MAURI\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"2.2000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1683\",\"createdAt\":\"2025-07-04T13:57:21.919Z\"}",
+      "newValue": "{\"id\":11,\"code\":\"11025\",\"name\":\"FERMENTO BIOLÓGICO FRESCO MAURI\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"2.2000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1683\",\"createdAt\":\"2025-07-04T13:57:21.919Z\"}",
+      "insumoId": 11,
+      "createdAt": "2025-07-04T14:02:22.350Z"
+    },
+    {
+      "id": 9,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ENZIMA GRANOMIX 100 A atualizado",
+      "previousValue": "{\"id\":3,\"code\":\"12041\",\"name\":\"ENZIMA GRANOMIX 100 A\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.2200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1523\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "newValue": "{\"id\":3,\"code\":\"12041\",\"name\":\"ENZIMA GRANOMIX 100 A\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.2200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1523\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "insumoId": 3,
+      "createdAt": "2025-07-04T14:02:22.353Z"
+    },
+    {
+      "id": 10,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SACO PARA PESADINHA 21X50XU,10MM atualizado",
+      "previousValue": "{\"id\":4,\"code\":\"20036\",\"name\":\"SACO PARA PESADINHA 21X50XU,10MM\",\"category\":\"MASSA\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.8264\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "newValue": "{\"id\":4,\"code\":\"20036\",\"name\":\"SACO PARA PESADINHA 21X50XU,10MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.8264\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "insumoId": 4,
+      "createdAt": "2025-07-04T14:02:22.355Z"
+    },
+    {
+      "id": 11,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ETIQUETA COLCHF AA R570 ADESIVO 105X50 atualizado",
+      "previousValue": "{\"id\":5,\"code\":\"23012\",\"name\":\"ETIQUETA COLCHF AA R570 ADESIVO 105X50\",\"category\":\"MASSA\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0781\",\"createdAt\":\"2025-07-04T13:57:21.895Z\"}",
+      "newValue": "{\"id\":5,\"code\":\"23012\",\"name\":\"ETIQUETA COLCHF AA R570 ADESIVO 105X50\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0781\",\"createdAt\":\"2025-07-04T13:57:21.895Z\"}",
+      "insumoId": 5,
+      "createdAt": "2025-07-04T14:02:22.356Z"
+    },
+    {
+      "id": 12,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SACO PLÁSTICO FF 10X50XKG,03MM atualizado",
+      "previousValue": "{\"id\":12,\"code\":\"22000\",\"name\":\"SACO PLÁSTICO FF 10X50XKG,03MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0529\",\"createdAt\":\"2025-07-04T13:57:21.928Z\"}",
+      "newValue": "{\"id\":12,\"code\":\"22000\",\"name\":\"SACO PLÁSTICO FF 10X50XKG,03MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0529\",\"createdAt\":\"2025-07-04T13:57:21.928Z\"}",
+      "insumoId": 12,
+      "createdAt": "2025-07-04T14:02:22.358Z"
+    },
+    {
+      "id": 13,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo FITA ADESIVA POLIPROPILENO TRANSPARENTE atualizado",
+      "previousValue": "{\"id\":13,\"code\":\"23037\",\"name\":\"FITA ADESIVA POLIPROPILENO TRANSPARENTE\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"1.3200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0163\",\"createdAt\":\"2025-07-04T13:57:21.929Z\"}",
+      "newValue": "{\"id\":13,\"code\":\"23037\",\"name\":\"FITA ADESIVA POLIPROPILENO TRANSPARENTE\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"1.3200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0163\",\"createdAt\":\"2025-07-04T13:57:21.929Z\"}",
+      "insumoId": 13,
+      "createdAt": "2025-07-04T14:02:22.359Z"
+    },
+    {
+      "id": 14,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo RIBON CRA FALTA (SONT) 110X450 C/450 HTS atualizado",
+      "previousValue": "{\"id\":14,\"code\":\"23038\",\"name\":\"RIBON CRA FALTA (SONT) 110X450 C/450 HTS\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"0.0140\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0003\",\"createdAt\":\"2025-07-04T13:57:21.933Z\"}",
+      "newValue": "{\"id\":14,\"code\":\"23038\",\"name\":\"RIBON CRA FALTA (SONT) 110X450 C/450 HTS\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"0.0140\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0003\",\"createdAt\":\"2025-07-04T13:57:21.933Z\"}",
+      "insumoId": 14,
+      "createdAt": "2025-07-04T14:02:22.363Z"
+    },
+    {
+      "id": 15,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo CAIXA MÉDIA N 500 x 300 x 250 atualizado",
+      "previousValue": "{\"id\":15,\"code\":\"21026\",\"name\":\"CAIXA MÉDIA N 500 x 300 x 250\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.8550\",\"createdAt\":\"2025-07-04T13:57:21.936Z\"}",
+      "newValue": "{\"id\":15,\"code\":\"21026\",\"name\":\"CAIXA MÉDIA N 500 x 300 x 250\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.8550\",\"createdAt\":\"2025-07-04T13:57:21.936Z\"}",
+      "insumoId": 15,
+      "createdAt": "2025-07-04T14:02:22.367Z"
+    },
+    {
+      "id": 16,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo FARINHA DE TRIGO atualizado",
+      "previousValue": "{\"id\":7,\"code\":\"10000\",\"name\":\"FARINHA DE TRIGO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"75.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"1.8592\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "newValue": "{\"id\":7,\"code\":\"10000\",\"name\":\"FARINHA DE TRIGO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"43.3\",\"finalCostPerKg\":\"6.2428\",\"createdAt\":\"2025-07-04T13:57:21.896Z\"}",
+      "insumoId": 7,
+      "createdAt": "2025-07-04T14:10:58.017Z"
+    },
+    {
+      "id": 17,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ÓLEO DE SOJA REFINADO atualizado",
+      "previousValue": "{\"id\":8,\"code\":\"11033\",\"name\":\"ÓLEO DE SOJA REFINADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.6000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0303\",\"createdAt\":\"2025-07-04T13:57:21.908Z\"}",
+      "newValue": "{\"id\":8,\"code\":\"11033\",\"name\":\"ÓLEO DE SOJA REFINADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"2.2\",\"finalCostPerKg\":\"251.1400\",\"createdAt\":\"2025-07-04T13:57:21.908Z\"}",
+      "insumoId": 8,
+      "createdAt": "2025-07-04T14:10:58.025Z"
+    },
+    {
+      "id": 18,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ÁGUA CONSUMO PRODUTIVO atualizado",
+      "previousValue": "{\"id\":9,\"code\":\"15001\",\"name\":\"ÁGUA CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0000\",\"createdAt\":\"2025-07-04T13:57:21.912Z\"}",
+      "newValue": "{\"id\":9,\"code\":\"15001\",\"name\":\"ÁGUA CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"12.7\",\"finalCostPerKg\":\"0.0000\",\"createdAt\":\"2025-07-04T13:57:21.912Z\"}",
+      "insumoId": 9,
+      "createdAt": "2025-07-04T14:10:58.029Z"
+    },
+    {
+      "id": 19,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo GELO CONSUMO PRODUTIVO atualizado",
+      "previousValue": "{\"id\":10,\"code\":\"15002\",\"name\":\"GELO CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"20.7500\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2096\",\"createdAt\":\"2025-07-04T13:57:21.915Z\"}",
+      "newValue": "{\"id\":10,\"code\":\"15002\",\"name\":\"GELO CONSUMO PRODUTIVO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"15.0\",\"finalCostPerKg\":\"7.3200\",\"createdAt\":\"2025-07-04T13:57:21.915Z\"}",
+      "insumoId": 10,
+      "createdAt": "2025-07-04T14:10:58.031Z"
+    },
+    {
+      "id": 20,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SAL REFINADO IODADO atualizado",
+      "previousValue": "{\"id\":2,\"code\":\"11006\",\"name\":\"SAL REFINADO IODADO\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"1.5000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.2230\",\"createdAt\":\"2025-07-04T13:57:21.893Z\"}",
+      "newValue": "{\"id\":2,\"code\":\"11006\",\"name\":\"SAL REFINADO IODADO\",\"category\":\"PESADINHA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"94.4\",\"finalCostPerKg\":\"1.6937\",\"createdAt\":\"2025-07-04T13:57:21.893Z\"}",
+      "insumoId": 2,
+      "createdAt": "2025-07-04T14:10:58.055Z"
+    },
+    {
+      "id": 21,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ENZIMA GRANOMIX 100 A atualizado",
+      "previousValue": "{\"id\":3,\"code\":\"12041\",\"name\":\"ENZIMA GRANOMIX 100 A\",\"category\":\"MASSA\",\"unit\":\"kg\",\"purchaseValue\":\"0.2200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1523\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "newValue": "{\"id\":3,\"code\":\"12041\",\"name\":\"ENZIMA GRANULIX 100 A\",\"category\":\"PESADINHA\",\"unit\":\"kg\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"12.1\",\"finalCostPerKg\":\"340.8900\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "insumoId": 3,
+      "createdAt": "2025-07-04T14:10:58.060Z"
+    },
+    {
+      "id": 22,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo ETIQUETA COLCHF AA R570 ADESIVO 105X50 atualizado",
+      "previousValue": "{\"id\":5,\"code\":\"23012\",\"name\":\"ETIQUETA COLCHF AA R570 ADESIVO 105X50\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0781\",\"createdAt\":\"2025-07-04T13:57:21.895Z\"}",
+      "newValue": "{\"id\":5,\"code\":\"23012\",\"name\":\"ETIQUETA COUCHE 3A ESTO ADESIVO 105X90\",\"category\":\"PESADINHA\",\"unit\":\"un\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"54.9\",\"finalCostPerKg\":\"0.1422\",\"createdAt\":\"2025-07-04T13:57:21.895Z\"}",
+      "insumoId": 5,
+      "createdAt": "2025-07-04T14:10:58.062Z"
+    },
+    {
+      "id": 23,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SACO PARA PESADINHA 21X50XU,10MM atualizado",
+      "previousValue": "{\"id\":4,\"code\":\"20036\",\"name\":\"SACO PARA PESADINHA 21X50XU,10MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.8264\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "newValue": "{\"id\":4,\"code\":\"20036\",\"name\":\"SACO PARA PESADINHA 21X50X05,10MM\",\"category\":\"PESADINHA\",\"unit\":\"un\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"54.9\",\"finalCostPerKg\":\"0.7851\",\"createdAt\":\"2025-07-04T13:57:21.894Z\"}",
+      "insumoId": 4,
+      "createdAt": "2025-07-04T14:10:58.063Z"
+    },
+    {
+      "id": 24,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo SACO PLÁSTICO FF 10X50XKG,03MM atualizado",
+      "previousValue": "{\"id\":12,\"code\":\"22000\",\"name\":\"SACO PLÁSTICO FF 10X50XKG,03MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"1.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0529\",\"createdAt\":\"2025-07-04T13:57:21.928Z\"}",
+      "newValue": "{\"id\":12,\"code\":\"22000\",\"name\":\"SACO PLÁSTICO PP 10X32X0,03MM\",\"category\":\"EMBALAGEM\",\"unit\":\"un\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.5150\",\"createdAt\":\"2025-07-04T13:57:21.928Z\"}",
+      "insumoId": 12,
+      "createdAt": "2025-07-04T14:10:58.067Z"
+    },
+    {
+      "id": 25,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo FITA ADESIVA POLIPROPILENO TRANSPARENTE atualizado",
+      "previousValue": "{\"id\":13,\"code\":\"23037\",\"name\":\"FITA ADESIVA POLIPROPILENO TRANSPARENTE\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"1.3200\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0163\",\"createdAt\":\"2025-07-04T13:57:21.929Z\"}",
+      "newValue": "{\"id\":13,\"code\":\"23037\",\"name\":\"FITA ADESIVA POLYPRES-430 TRANSPARENTE\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0685\",\"createdAt\":\"2025-07-04T13:57:21.929Z\"}",
+      "insumoId": 13,
+      "createdAt": "2025-07-04T14:10:58.069Z"
+    },
+    {
+      "id": 26,
+      "productId": 0,
+      "userId": 1,
+      "changeType": "insumo_update",
+      "description": "Insumo RIBON CRA FALTA (SONT) 110X450 C/450 HTS atualizado",
+      "previousValue": "{\"id\":14,\"code\":\"23038\",\"name\":\"RIBON CRA FALTA (SONT) 110X450 C/450 HTS\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"0.0140\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.0003\",\"createdAt\":\"2025-07-04T13:57:21.933Z\"}",
+      "newValue": "{\"id\":14,\"code\":\"23038\",\"name\":\"RIBON CRA FALTA (CONT) 110X450 C/450 HIS\",\"category\":\"EMBALAGEM\",\"unit\":\"mt\",\"purchaseValue\":\"0.0000\",\"yieldPercentage\":\"100.0\",\"finalCostPerKg\":\"0.1044\",\"createdAt\":\"2025-07-04T13:57:21.933Z\"}",
+      "insumoId": 14,
+      "createdAt": "2025-07-04T14:10:58.071Z"
+    }
+  ],
+  "pendenciasRepasse": [],
+  "logisticaModalidades": [],
+  "simulacoesCenario": [],
+  "calculosLogistica": [],
+  "pedidos": [],
+  "statusAprovacaoMargem": [],
+  "userPermissions": [],
+  "pricingConfiguration": [],
+  "insumoVariacoes": [
+    {
+      "id": 1,
+      "insumoId": 1,
+      "valorAnterior": 1.72,
+      "valorNovo": 1.8576000000000001,
+      "percentualVariacao": 8.00000000000001,
+      "impactoNoPreco": 2.5,
+      "detectadoEm": "2025-07-11T16:21:36.229Z",
+      "acknowledged": false,
+      "acknowledgedBy": null,
+      "acknowledgedAt": null
+    },
+    {
+      "id": 2,
+      "insumoId": 1,
+      "valorAnterior": 1.72,
+      "valorNovo": 1.9779999999999998,
+      "percentualVariacao": 15,
+      "impactoNoPreco": 4.5,
+      "detectadoEm": "2025-07-11T16:41:02.273Z",
+      "acknowledged": false,
+      "acknowledgedBy": null,
+      "acknowledgedAt": null
+    },
+    {
+      "id": 3,
+      "insumoId": 2,
+      "valorAnterior": 0,
+      "valorNovo": 0,
+      "percentualVariacao": -8,
+      "impactoNoPreco": 2.4,
+      "detectadoEm": "2025-07-11T16:41:02.274Z",
+      "acknowledged": false,
+      "acknowledgedBy": null,
+      "acknowledgedAt": null
+    },
+    {
+      "id": 4,
+      "insumoId": 3,
+      "valorAnterior": 0,
+      "valorNovo": 0,
+      "percentualVariacao": 23,
+      "impactoNoPreco": 6.9,
+      "detectadoEm": "2025-07-11T16:41:02.277Z",
+      "acknowledged": false,
+      "acknowledgedBy": null,
+      "acknowledgedAt": null
+    }
+  ]
+}
