@@ -894,19 +894,6 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
-  app.post("/api/insumo-variations/:id/acknowledge", async (req, res) => {
-    try {
-      const variationId = parseInt(req.params.id);
-      const userId = 1; // TODO: Get from session
-      const storage = await getStorage();
-      const result = await storage.acknowledgeVariation(variationId, userId);
-      res.json(result);
-    } catch (error) {
-      console.error("Erro ao reconhecer variação:", error);
-      res.status(500).json({ message: "Erro ao reconhecer variação" });
-    }
-  });
-
   app.get("/api/changes", async (req, res) => {
     try {
       const limit = req.query.limit ? parseInt(req.query.limit as string) : 50;
